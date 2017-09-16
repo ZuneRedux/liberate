@@ -1,0 +1,7 @@
+LIBRARY	"RelayInput"
+
+EXPORTS INP_Init
+	INP_Deinit
+	INP_Open
+	INP_Close
+	INP_IOControl
